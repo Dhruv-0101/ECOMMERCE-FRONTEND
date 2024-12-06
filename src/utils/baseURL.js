@@ -1,3 +1,2 @@
- const baseURL = "http://localhost:2030/api/v1";
-//const baseURL = "https://nodejs-ecommerce-api.onrender.com/api/v1";
+const baseURL = "https://ecommerce-backend-1-ay2i.onrender.com/api/v1";
 export default baseURL;
